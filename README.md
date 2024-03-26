@@ -2,3 +2,6 @@
 
 
 [lab-04](https://github.com/prathibhasamudrala/aiml-13/blob/main/LAB_4.ipynb)
+
+
+[lab-07](https://github.com/prathibhasamudrala/aiml-13/blob/main/lab%207.ipynb)
