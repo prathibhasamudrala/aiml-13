@@ -12,3 +12,10 @@
 
 [LAB-01](https://github.com/prathibhasamudrala/aiml-13/blob/main/Copy%20of%20lab01.ipynb)
 
+
+
+[LAB_02](https://github.com/prathibhasamudrala/aiml-13/blob/main/lab_02.ipynb)
+
+
+
+
