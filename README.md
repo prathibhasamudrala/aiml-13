@@ -8,3 +8,7 @@
 
 
 [lab-08](https://github.com/prathibhasamudrala/aiml-13/blob/main/lab-08.ipynb)
+
+
+[LAB-01](https://github.com/prathibhasamudrala/aiml-13/blob/main/Copy%20of%20lab01.ipynb)
+
